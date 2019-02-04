@@ -17,9 +17,10 @@ os.system(['','color D'][os.name == 'nt'])
 print '''
                 SELAMAT DATANG
                      DI
-                ACEH CYBER TEAM
-           CODE: BY R15ky Ch4nn3L
-     FACEBOOK RECOVERY PASSWORD ATTACKER  
+                WAIMUSI CYBER TEAM
+           CODE: CAH NDESO
+     FACEBOOK RECOVERY PASSWORD ATTACKER
+  
  _____              _                 _
 |  ___|_ _  ___ ___| |__   ___   ___ | | __
 | |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
@@ -41,7 +42,7 @@ while True:
     
     """
 
-    choice=raw_input("Masuka  Pilihan Mu: ")
+    choice=raw_input("Masukan  Pilihan Mu: ")
 
     if choice=="1":
         try:
